@@ -6,9 +6,9 @@
 ### [Repo 3](https://github.com/alexeygrigorev/data-science-interviews/blob/master/theory.md),
 ### [DeepLearning.ai-Summary](https://github.com/mbadry1/DeepLearning.ai-Summary),
 ### [CS231n-2017-Summary](https://github.com/mbadry1/CS231n-2017-Summary)
--  [SQL,Python<Algorithmic Questions](https://github.com/alexeygrigorev/data-science-interviews/blob/master/technical.md)
--  [A complete computer science study plan to become a software engineer.](https://github.com/jwasham/coding-interview-university)
--  [Machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
+### [SQL,Python<Algorithmic Questions](https://github.com/alexeygrigorev/data-science-interviews/blob/master/technical.md)
+### [A complete computer science study plan to become a software engineer.](https://github.com/jwasham/coding-interview-university)
+### [Machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
 
 1. [Day ](https://github.com/chethanhn29/interview-question-data-science--master/blob/master/Data%20Science%20INterview%20Questions%20%23Day1.pdf)
 2. [Day ](https://github.com/chethanhn29/interview-question-data-science--master/blob/master/Data%20Science%20Interview%20Preparation(%23DAY%2002).pdf)
