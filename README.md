@@ -30,4 +30,3 @@
 28. [Day ](https://github.com/chethanhn29/interview-question-data-science--master/blob/master/Data%20Science%20Interview%20Interview%20Questions(%23Day28).pdf)
 29. [Day ](https://github.com/chethanhn29/interview-question-data-science--master/blob/master/Data%20Science%20Interview%20Preparation.pdf)
 30. [Day ](https://github.com/chethanhn29/interview-question-data-science--master/blob/master/Final%20Data%20Science%20Interview%20Questions(%23Day30).pdf)
-
