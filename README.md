@@ -1,6 +1,11 @@
 ## Data Science  and Machine learning Interview Preparation and also to Upskill
 
-## Other Resources [GIthub Repo 1](https://github.com/rbhatia46/Data-Science-Interview-Resources/blob/master/README.md),[Repo2](https://github.com/ml874/Cracking-the-Data-Science-Interview/blob/master/README.md),[Repo 3](https://github.com/alexeygrigorev/data-science-interviews/blob/master/theory.md),[DeepLearning.ai-Summary](https://github.com/mbadry1/DeepLearning.ai-Summary),[CS231n-2017-Summary](https://github.com/mbadry1/CS231n-2017-Summary)
+## Other Resources 
+### [GIthub Repo 1](https://github.com/rbhatia46/Data-Science-Interview-Resources/blob/master/README.md),
+### [Repo2](https://github.com/ml874/Cracking-the-Data-Science-Interview/blob/master/README.md),
+### [Repo 3](https://github.com/alexeygrigorev/data-science-interviews/blob/master/theory.md),
+### [DeepLearning.ai-Summary](https://github.com/mbadry1/DeepLearning.ai-Summary),
+### [CS231n-2017-Summary](https://github.com/mbadry1/CS231n-2017-Summary)
 -  [SQL,Python<Algorithmic Questions](https://github.com/alexeygrigorev/data-science-interviews/blob/master/technical.md)
 -  [A complete computer science study plan to become a software engineer.](https://github.com/jwasham/coding-interview-university)
 -  [Machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
